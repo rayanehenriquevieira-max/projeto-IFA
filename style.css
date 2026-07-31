@@ -1,0 +1,29 @@
+body{
+background-color: seashell;
+color:maroon;
+margin: 50px;
+font-family: "poppins", sans-serif;
+font-weight: 400;
+display: flex;
+flex-direction: column;
+}
+
+h1 h2{
+    text-align: center;
+}
+
+a{
+    text-decoration: none;
+    color: brown;
+    font-weight: 700;
+    align-self: center;
+    margin-bottom: 20px;
+}
+
+a:hover{
+    color: chocolate;
+}
+
+p {
+    text-align: justify;
+}
