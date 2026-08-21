@@ -28,3 +28,8 @@ a:hover {
 p {
     text-align: justify;
 }
+img {
+  width: 200px;
+  height: 200px;
+  object-fit: cover; /* Corta a imagem nas bordas para preencher o espaço sem distorcer */
+}
