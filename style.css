@@ -33,10 +33,6 @@ img {
   height: 300px;
   object-fit: cover; /* Corta a imagem nas bordas para preencher o espaço sem distorcer */
 }
-.container-imagem {
-  display: flex;
-  justify-content: center; /* Centraliza na horizontal */
-  align-items: center;     /* Centraliza na vertical */
-  height: 100vh;           /* Opcional: faz o contêiner ocupar a altura toda da tela */
+.bloco-texto {
+  text-align: center; /* Alinha a imagem no centro horizontal */
 }
-
