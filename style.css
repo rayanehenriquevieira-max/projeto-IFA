@@ -29,7 +29,18 @@ p {
     text-align: justify;
 }
 img {
-  width: 200px;
-  height: 200px;
+  width: 300px;
+  height: 300px;
   object-fit: cover; /* Corta a imagem nas bordas para preencher o espaço sem distorcer */
+}
+.container-imagem {
+  display: flex;
+  justify-content: center; /* Centraliza na horizontal */
+  align-items: center;     /* Centraliza na vertical */
+  height: 100vh;           /* Opcional: faz o contêiner ocupar a altura toda da tela */
+}
+
+.minha-imagem {
+  width: 300px;            /* Defina o tamanho que desejar */
+  height: auto;
 }
