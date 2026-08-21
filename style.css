@@ -40,7 +40,3 @@ img {
   height: 100vh;           /* Opcional: faz o contêiner ocupar a altura toda da tela */
 }
 
-.minha-imagem {
-  width: 300px;            /* Defina o tamanho que desejar */
-  height: auto;
-}
